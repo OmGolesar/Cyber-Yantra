@@ -1,0 +1,54 @@
+Create a Streamlit application that presents a comprehensive view of the Cyber Yantra encryption tool and its significance in secure communication. The app should be interactive, visually appealing, and informative. It should include the following components:
+
+1. Home Page
+A brief introduction to Cyber Yantra and its purpose.
+
+An engaging hero section with an eye-catching title, description, and an image (related to cybersecurity/encryption).
+
+A sidebar navigation menu to access different sections.
+
+2. Research Overview
+A summary of the research paper, including:
+
+Objectives of the Cyber Yantra tool
+
+How it enhances encryption
+
+Its role in modern cybersecurity
+
+Use Markdown or Streamlit components to structure the content clearly.
+
+3. Importance of Secure Communication
+Explain why secure communication is critical in today’s world.
+
+Use real-life case studies of cyberattacks and breaches (e.g., data leaks, man-in-the-middle attacks).
+
+Provide statistics and visuals (e.g., bar charts, pie charts) using Matplotlib or Plotly.
+
+4. Cyber Yantra Encryption Mechanism
+Explain the working mechanism of Cyber Yantra in an easy-to-understand manner.
+
+Use diagrams and flowcharts to illustrate encryption and decryption processes.
+
+Option to upload a file or input text and see how Cyber Yantra encrypts it dynamically.
+
+5. Case Studies and Real-Life Applications
+Present real-life examples where encryption tools like Cyber Yantra are needed.
+
+Compare Cyber Yantra with other encryption techniques (AES, RSA, etc.) using a comparison table.
+
+A section where users can simulate an encryption scenario and see the impact of security breaches.
+
+6. Interactive Data Visualizations
+Show a timeline of major cybersecurity breaches using an interactive graph.
+
+Use word clouds to highlight cybersecurity threats.
+
+Allow users to interact with datasets related to encryption and cyber threats.
+
+7. Conclusion & Future Scope
+Discuss how Cyber Yantra can evolve in the future.
+
+Mention potential improvements and real-world applications.
+
+Provide links to further reading resources.
