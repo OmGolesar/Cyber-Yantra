@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Title and introduction
-st.title("🔐 Cyber Yantra")
+st.title("Cyber Yantra")
 st.subheader("A Substitution Cipher-Based Encryption Tool for Secure Digital Communication")
 
 # Create columns for layout
@@ -223,8 +223,10 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center;">
     <small>
-        Created based on the research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, and Kishor M Mahale.<br>
+        Created based on the research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, Kishor M Mahale, Ratan D Deokar.<br>
         This application is for educational purposes only.
     </small>
 </div>
 """, unsafe_allow_html=True)
+
+

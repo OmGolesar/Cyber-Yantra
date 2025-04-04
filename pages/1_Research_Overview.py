@@ -103,7 +103,7 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center;">
     <small>
-        Based on research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, and Kishor M Mahale<br>
+        Based on research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, Kishor M Mahale and Ratan D Deokar.<br>
         This page summarizes the research paper "Cyber Yantra: A Substitution Cipher-Based Encryption Tool for Secure Digital Communication"
     </small>
 </div>

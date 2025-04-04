@@ -144,7 +144,7 @@ st.markdown("""
 <div style="text-align: center;">
     <small>
         Thank you for exploring the Cyber Yantra Encryption Tool application.<br>
-        This project is based on research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, and Kishor M Mahale.
+        This project is based on research by Tanmay S Dikshit, Om Raju Golesar, Niraj Digambar Shinde, Kishor M Mahale and Ratan D Deokar.
     </small>
 </div>
 """, unsafe_allow_html=True)

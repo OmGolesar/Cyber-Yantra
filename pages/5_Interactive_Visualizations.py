@@ -230,7 +230,7 @@ else:  # 3D Visualization
                 columns='Data Size (KB)', 
                 values='Encryption Time (ms)'
             ).values,
-            x=size_options,
+            x=[10, 100, 1000, 10000, 100000],  # Data sizes from perf_data
             y=['Caesar Cipher', 'Cyber Yantra', 'AES-128', 'AES-256', 'RSA-2048'],
             colorscale='Viridis'
         )
