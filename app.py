@@ -28,7 +28,7 @@ with col1:
     
     This application demonstrates the concepts, research, and practical applications of the 
     Cyber Yantra encryption tool as described in the research paper by Tanmay S Dikshit, 
-    Om Raju Golesar, Niraj Digambar Shinde, and Kishor M Mahale.
+    Om Raju Golesar, Niraj Digambar Shinde, Ratan D Deokar and Kishor M Mahale.
     
     ### What is Cyber Yantra?
     
